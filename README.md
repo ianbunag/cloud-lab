@@ -2,9 +2,10 @@
 
 [Amazon EKS Workshop](https://eksworkshop.com) practice repository.
 
-# Ideas
+# Future Considerations
 
-- Consider IAM + SSO
+- IAM + SSO
+- [Threat Modeling for Builders Workshop](https://skillbuilder.aws/learn/H3BU3X1M82/threat-modeling-for-builders-workshop/HZJDJ7M6PX)
 
 # Inspiration
 
